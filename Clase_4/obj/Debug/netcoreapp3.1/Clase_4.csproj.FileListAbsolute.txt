@@ -1,0 +1,13 @@
+D:\CESDE\Lenguaje_De_Programacion\Clase_4\bin\Debug\netcoreapp3.1\Clase_4.exe
+D:\CESDE\Lenguaje_De_Programacion\Clase_4\bin\Debug\netcoreapp3.1\Clase_4.deps.json
+D:\CESDE\Lenguaje_De_Programacion\Clase_4\bin\Debug\netcoreapp3.1\Clase_4.runtimeconfig.json
+D:\CESDE\Lenguaje_De_Programacion\Clase_4\bin\Debug\netcoreapp3.1\Clase_4.runtimeconfig.dev.json
+D:\CESDE\Lenguaje_De_Programacion\Clase_4\bin\Debug\netcoreapp3.1\Clase_4.dll
+D:\CESDE\Lenguaje_De_Programacion\Clase_4\bin\Debug\netcoreapp3.1\Clase_4.pdb
+D:\CESDE\Lenguaje_De_Programacion\Clase_4\obj\Debug\netcoreapp3.1\Clase_4.csprojAssemblyReference.cache
+D:\CESDE\Lenguaje_De_Programacion\Clase_4\obj\Debug\netcoreapp3.1\Clase_4.AssemblyInfoInputs.cache
+D:\CESDE\Lenguaje_De_Programacion\Clase_4\obj\Debug\netcoreapp3.1\Clase_4.AssemblyInfo.cs
+D:\CESDE\Lenguaje_De_Programacion\Clase_4\obj\Debug\netcoreapp3.1\Clase_4.csproj.CoreCompileInputs.cache
+D:\CESDE\Lenguaje_De_Programacion\Clase_4\obj\Debug\netcoreapp3.1\Clase_4.dll
+D:\CESDE\Lenguaje_De_Programacion\Clase_4\obj\Debug\netcoreapp3.1\Clase_4.pdb
+D:\CESDE\Lenguaje_De_Programacion\Clase_4\obj\Debug\netcoreapp3.1\Clase_4.genruntimeconfig.cache
